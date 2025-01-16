@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: aliceblue;
+}
+
+p {
+    color: rgb(255, 205, 240);
+    border: 10px solid rgb(255, 205, 248);
+    padding: 30pt;
+    margin: 10pt;
+}
+
+a:link {
+    background-color:cornflowerblue;
+    color:lightpink;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-align: center;
+    margin: 10pt;
+    display: inline-block;
+}
+
+a:visited {
+    color: lightyellow;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgb(132, 165, 226);
+    color:bisque;
+    text-decoration: none;
+}
+
+a:active {
+    color: aquamarine;
+    text-decoration: none;
+}
+
